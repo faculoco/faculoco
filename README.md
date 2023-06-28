@@ -2,8 +2,8 @@
 <p>I'm Facundo Ortiz</p>
 <p>
       👨‍💻 Full Stack Web Developer 🤖<br>
-      🚀 Self Motivated and Passionated Full-Stack Developer<br>
-      💻 Studying languages daily that allow me to improve my daily work
+      🚀 Self Motivated and Passionated Full-Stack Developer 🚀<br>
+      💻 Studying languages daily that allow me to improve my daily work 💻
     </p>
     <p>I am open to:</p>
     <ul class="skills-list">
