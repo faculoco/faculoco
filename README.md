@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @facundo ortiz
-- 👀 I’m interested in  el mundo del hardware,programacion,gaming y diseño grafico
-- 🌱 I’m currently learning  programacion web
-- 💞️ I’m looking to collaborate on  emprendimientos utiles para la sociedad
-- 📫 How to reach me : Escribime un whatsapp al +54 011 22906819
+Hi there, 👋
+I'm Alfonzo Hernández
+https://alfdev-portfolio.vercel.app
 
-<!---
-faculoco/faculoco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👨‍💻 ITSM and Cybersecurity Specialist, Geek, and Tech Lover 🤖
+
+🚀 Self Motivated and Passionated Full-Stack Developer
+
+💻 Currently a Software Engineering Student
+
+I am open to:
+
+Any collobration work 🤝
+Keep Learning and Improving 📚
+My Skills:
+Frontend Technologies:
+HTML  CSS  TailwindCSS  JavaScript  ReactJS  NextJS NestJS 
+
+Other Technologies:
+NodeJS  ExpressJS  Git  Docker  Kubernetes  Postgres  Mysql  MongoDb 
+
+Connect with me:
+  
