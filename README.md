@@ -22,7 +22,7 @@
       <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-red?logo=HTML5&labelColor=black">
       <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-skyblue?logo=CSS3&labelColor=black">
       <img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-yellow?logo=javascript&labelColor=black">
-      <img alt="Static Badge" src="https://img.shields.io/badge/ANGULAR-red?style=plastico&logo=angular">
+      <img alt="Static Badge" src="https://img.shields.io/badge/ANGULAR-red?style=plastico&logo=angular&labelColor=black">
       <img alt="Static Badge" src="https://img.shields.io/badge/REACT%20JS-skyblue?style=plastico&logo=react&labelColor=black">
       <img alt="Static Badge" src="https://img.shields.io/badge/SASS-pink?style=plastico&logo=sass&labelColor=black">
       <li>Other Technologies:</li>
