@@ -20,7 +20,7 @@
     <ul class="skills-list">
       <li id="Frontend-skills"><h3>Frontend Technologies:</h3></li>
       <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-red?logo=HTML5&labelColor=black">
-      <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-skyblue?logo=CSS3&labelColor=black">
+      <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-skyblue?style=plastico&logo=css3&logoColor=skyblue&color=black">
       <img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-black?style=plastico&logo=javascript">
       <img alt="Static Badge" src="https://img.shields.io/badge/ANGULAR-red?style=plastico&logo=angular&labelColor=black">
       <img alt="Static Badge" src="https://img.shields.io/badge/REACT%20JS-skyblue?style=plastico&logo=react&labelColor=black">
