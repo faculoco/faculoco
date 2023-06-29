@@ -31,9 +31,14 @@
         <img alt="Static Badge" src="https://img.shields.io/badge/GIT-red?style=plastico&logo=git&logoColor=red&color=black">
         <img alt="Static Badge" src="https://img.shields.io/badge/GITHUB-black?style=plastico&logo=github&logoColor=white&color=black">
         <img alt="Static Badge" src="https://img.shields.io/badge/NPM-red?style=plastico&logo=npm&labelColor=black&color=black">
+      <li id="learning"><h3>Learning</h3></li>
+        <img alt="Static Badge" src="https://img.shields.io/badge/TYPESCRIPT-skyblue?style=plastico&logo=typescript&logoColor=skyblue&labelColor=black&color=black">
+        <img alt="Static Badge" src="https://img.shields.io/badge/NEXT.JS-white?style=plastico&logo=next.JS&logoColor=white&labelColor=black&color=black">
       <li id="tools"><h3>Tools</h3></li>
         <img alt="Static Badge" src="https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-skyblue?style=plastico&logo=visual%20studio%20code&logoColor=skyblue&labelColor=black&color=black">
         <img alt="Static Badge" src="https://img.shields.io/badge/CHATGPT_4-skyblue?style=plastico&logo=openai&logoColor=skyblue&labelColor=black&color=black">
+        <img alt="Static Badge" src="https://img.shields.io/badge/ASTRO.JS-red?style=plastico&logo=astro&logoColor=white&labelColor=black&color=black">
+        <img alt="Static Badge" src="https://img.shields.io/badge/MUI-BLUE?style=plastico&logo=MUI&logoColor=blue&labelColor=black&color=black">
     </ul>
 <h1>Connect with me:</h1>
 <ul>
