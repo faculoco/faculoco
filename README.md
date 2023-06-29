@@ -12,8 +12,8 @@
 <div id="Titulo-descripcion" align="left">
       <h4>OPEN TO:</h4>
       <ul class="descripcion">
-      <li><p>Any collaboration work 🤝</p></li>
-      <li><p>Keep Learning and Improving 📚</p></li>
+      <li><h4>Any collaboration work 🤝</h4></li>
+      <li><h4>Keep Learning and Improving 📚</h4></li>
       </ul>
 </div>
     <h1>MY SKILLS:</h1>
@@ -21,7 +21,7 @@
       <li id="Frontend-skills"><h3>Frontend Technologies:</h3></li>
       <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-red?logo=HTML5&labelColor=black">
       <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-skyblue?logo=CSS3&labelColor=black">
-      <img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-yellow?logo=javascript&labelColor=black">
+      <img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-black?style=plastico&logo=javascript">
       <img alt="Static Badge" src="https://img.shields.io/badge/ANGULAR-red?style=plastico&logo=angular&labelColor=black">
       <img alt="Static Badge" src="https://img.shields.io/badge/REACT%20JS-skyblue?style=plastico&logo=react&labelColor=black">
       <img alt="Static Badge" src="https://img.shields.io/badge/SASS-pink?style=plastico&logo=sass&labelColor=black">
@@ -32,7 +32,7 @@
 <h1>Connect with me:</h1>
 <ul>
 <a href="https://www.linkedin.com/in/damian-ortiz-dev"><img alt="Static Badge" src="https://img.shields.io/badge/LINKEDIN-skyblue?style=plastico&logo=linkedin&labelColor=black"></a>
-<a href="mailto:damianortizdev@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/GMAIL-white?style=plastico&logo=gmail&labelColor=black"></a>
+<a href="mailto:damianortizdev@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/GMAIL-red?style=plastico&logo=gmail&labelColor=black"></a>
 <a href="https://api.whatsapp.com/send?phone=5401122906819&text="><img alt="Static Badge" src="https://img.shields.io/badge/WHATSAPP-green?style=plastico&logo=whatsapp&labelColor=black">
 </ul>
 </body>
