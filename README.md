@@ -28,7 +28,6 @@
       <li>Other Technologies:</li>
       <img alt="Static Badge" src="https://img.shields.io/badge/NODE.JS-green?style=plastico&logo=node.js&labelColor=black">
       <img alt="Static Badge" src="https://img.shields.io/badge/GIT-red?style=plastico&logo=git&labelColor=black">
-
     </ul>
 <h1>Connect with me:</h1>
 <ul>
