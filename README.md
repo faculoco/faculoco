@@ -16,16 +16,16 @@
       <li><p>Keep Learning and Improving 📚</p></li>
       </ul>
 </div>
-    <h3>MY SKILLS:</h3>
+    <h1>MY SKILLS:</h1>
     <ul class="skills-list">
-      <li>Frontend Technologies:</li>
+      <li id="Frontend-skills">Frontend Technologies:</li>
       <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-red?logo=HTML5&labelColor=black">
       <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-skyblue?logo=CSS3&labelColor=black">
       <img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-yellow?logo=javascript&labelColor=black">
       <img alt="Static Badge" src="https://img.shields.io/badge/ANGULAR-red?style=plastico&logo=angular&labelColor=black">
       <img alt="Static Badge" src="https://img.shields.io/badge/REACT%20JS-skyblue?style=plastico&logo=react&labelColor=black">
       <img alt="Static Badge" src="https://img.shields.io/badge/SASS-pink?style=plastico&logo=sass&labelColor=black">
-      <li>Other Technologies:</li>
+      <li id="Other-skills"><h3>Other Technologies:</h3></li>
       <img alt="Static Badge" src="https://img.shields.io/badge/NODE.JS-green?style=plastico&logo=node.js&labelColor=black">
       <img alt="Static Badge" src="https://img.shields.io/badge/GIT-red?style=plastico&logo=git&labelColor=black">
     </ul>
