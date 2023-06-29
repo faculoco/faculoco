@@ -33,7 +33,7 @@
 <ul>
 <a href="https://www.linkedin.com/in/damian-ortiz-dev"><img alt="Static Badge" src="https://img.shields.io/badge/LINKEDIN-blue?style=plastico&logo=linkedin&logoColor=blue&color=black"></a>
 <a href="mailto:damianortizdev@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/GMAIL-red?style=plastico&logo=gmail&logoColor=red&color=black"></a>
-<a href="https://api.whatsapp.com/send?phone=5401122906819&text="<img alt="Static Badge" src="https://img.shields.io/badge/WHATSAPP-green?style=plastico&logo=whatsapp&logoColor=green&color=black"></a>
+<a href="https://api.whatsapp.com/send?phone=5401122906819&text="><img alt="Static Badge" src="https://img.shields.io/badge/WHATSAPP-green?style=plastico&logo=whatsapp&logoColor=green&color=black"></a>
 </ul>
 </body>
 </html>
