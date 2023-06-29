@@ -26,8 +26,9 @@
       <img alt="Static Badge" src="https://img.shields.io/badge/REACT%20JS-skyblue?style=plastico&logo=react&logoColor=skyblue&color=black">
       <img alt="Static Badge" src="https://img.shields.io/badge/SASS-pink?style=plastico&logo=sass&logoColor=pink&color=black">
       <li id="Other-skills"><h3>Other Technologies:</h3></li>
-      <img alt="Static Badge" src="https://img.shields.io/badge/NODE.JS-green?style=plastico&logo=node.js&labelColor=black">
-      <img alt="Static Badge" src="https://img.shields.io/badge/GIT-red?style=plastico&logo=git&labelColor=black">
+      <img alt="Static Badge" src="https://img.shields.io/badge/NODE.JS-green?style=plastico&logo=node.js&logoColor=green&color=black">
+      <img alt="Static Badge" src="https://img.shields.io/badge/GIT-red?style=plastico&logo=git&logoColor=red&color=black">
+      <img alt="Static Badge" src="https://img.shields.io/badge/GITHUB-black?style=plastico&logo=github&logoColor=white&color=black">
     </ul>
 <h1>Connect with me:</h1>
 <ul>
