@@ -18,7 +18,7 @@
 </div>
     <h1>MY SKILLS:</h1>
     <ul class="skills-list">
-      <li id="Frontend-skills">Frontend Technologies:</li>
+      <li id="Frontend-skills"><h3>Frontend Technologies:</h3></li>
       <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-red?logo=HTML5&labelColor=black">
       <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-skyblue?logo=CSS3&labelColor=black">
       <img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-yellow?logo=javascript&labelColor=black">
